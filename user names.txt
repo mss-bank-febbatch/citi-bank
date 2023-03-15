@@ -1,0 +1,6 @@
+
+browser      username                                       password
+  
+gmail        aniltharallaawsacount@gmail.com              anil@555
+
+AWS          aniltharallaawsacount@gmail.com              Anil@555

@@ -1,0 +1,4 @@
+
+
+
+ssh -i "pemfile.pem" ec2-user@ec2-18-197-133-16.eu-central-1.compute.amazonaws.com
