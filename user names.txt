@@ -4,3 +4,6 @@ browser      username                                       password
 gmail        aniltharallaawsacount@gmail.com              anil@555
 
 AWS          aniltharallaawsacount@gmail.com              Anil@555
+
+git          Anilaws-devops                               Anil@5555
+
